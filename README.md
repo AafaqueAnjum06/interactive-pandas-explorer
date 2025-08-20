@@ -223,6 +223,3 @@ All tests passed!
 ## License
 
 MIT License – see [LICENSE](LICENSE) for details.
-
-```
-```
